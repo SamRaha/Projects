@@ -1,4 +1,4 @@
-# Tic-Tac-Toe by Christian Thompson
+# Tic-Tac-Toe by Sam Raha
 # Using Loops & Functions & Lists
 
 # STAGE I:
