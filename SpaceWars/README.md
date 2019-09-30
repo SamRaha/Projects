@@ -1,7 +1,7 @@
 # Space Wars
 A fun interactive game made using the Python Turtle library.
 
-<img url(./gameplay.gif)>
+![](gameplay.gif)
 
 Instructions:
 
