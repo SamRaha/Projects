@@ -1,4 +1,4 @@
-# Comet Chaser
+# Space Wars
 A fun interactive game made using the Python Turtle library.
 
 ![](gameplay.gif)
